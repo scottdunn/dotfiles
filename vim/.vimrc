@@ -3,7 +3,7 @@
 
 " environment {
     " basic {
-        set nocompatible  " must be first line
+ "       set nocompatible  " must be first line
         set noswapfile    " no swap files
         set nobackup      " no backup files
         set nofoldenable  " disable code folding
